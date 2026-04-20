@@ -1,0 +1,17 @@
+[
+  {
+    "lambda": 1e-05,
+    "test_acc_pct": 58.51,
+    "sparsity_pct": 0.0
+  },
+  {
+    "lambda": 0.0001,
+    "test_acc_pct": 58.09,
+    "sparsity_pct": 0.0
+  },
+  {
+    "lambda": 0.0005,
+    "test_acc_pct": 58.54,
+    "sparsity_pct": 0.0
+  }
+]
